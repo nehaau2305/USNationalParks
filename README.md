@@ -6,7 +6,7 @@ This Android App allows users to search for thier desired US National Park to re
 - View details like description, address, contact information, website url, and more
 - Layout compatible with modern Android devices
 
-# Setup
+## Setup
 1. Clone the repository
 2. Request your own unique NPS API key from https://www.nps.gov/subjects/developer/get-started.htm
 3. Add the unique key to the project in a secure manner
